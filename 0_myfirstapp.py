@@ -3,7 +3,7 @@ import streamlit as st
 
 
 ### write your app
-st.write("Good morning.")
+st.write("Selamat pagi.")
 
 ### change to Hello there
 ### click always rerun for automatic update
